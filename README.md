@@ -52,8 +52,8 @@
 
 ---
 📫 Liên hệ
-📧 Email: [minhtapcode@gmail.com](mailto:hoangduyminh584@gmail.com)  
-🌎 Facebook: [facebook.com/minhtapcode](https://facebook.com/minhtapcode)  
+📧 Email: [hoangduyminh584@gmail.com](mailto:hoangduyminh584@gmail.com)  
+🌎 Facebook: [facebook.com/minhtapcode](https://www.facebook.com/duyminh0706)  
 💼 LinkedIn: [linkedin.com/in/minhtapcode](https://linkedin.com/in/minhtapcode)  
 
 ---
