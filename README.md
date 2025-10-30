@@ -71,9 +71,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/qKf3S1P.gif" width="100"/>
-</p>
-
 <p align="center">⭐ Cảm ơn bạn đã ghé thăm hồ sơ của mình!</p>
