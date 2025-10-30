@@ -52,7 +52,7 @@
 
 ---
 📫 Liên hệ
-📧 Email: [minhtapcode@gmail.com](mailto:minhtapcode@gmail.com)  
+📧 Email: [minhtapcode@gmail.com](mailto:hoangduyminh584@gmail.com)  
 🌎 Facebook: [facebook.com/minhtapcode](https://facebook.com/minhtapcode)  
 💼 LinkedIn: [linkedin.com/in/minhtapcode](https://linkedin.com/in/minhtapcode)  
 
