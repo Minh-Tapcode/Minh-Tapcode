@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/WW3Vx2P.png" width="100%" alt="Welcome Banner">
-</p>
 
 <h1 align="center">👋 Xin chào, mình là <span style="color:#00BFFF;">Minh Tapcode</span></h1>
 
